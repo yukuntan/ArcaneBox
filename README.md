@@ -8,3 +8,6 @@ v. 1.0
 3rd:
 1. EntityX
 2. rpocojson
+
+Environment:
+1. cocos2d: 3.10
