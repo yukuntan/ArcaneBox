@@ -1,0 +1,22 @@
+{
+  "NodeCom": {
+    "node_of_parent": ""
+  },
+
+  "StorageCom": {},
+
+  "RelationCom": {
+    "parent": "map"
+  },
+
+  "NodeDefaultCom": {},
+
+  "SpriteCom": {
+  },
+
+  "ThumbnailCom": {
+    "group": {
+      "open": "smallmap_block"
+    }
+  }
+}
